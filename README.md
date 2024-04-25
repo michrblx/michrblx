@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm frel0</h1>
-<h3 align="center">a paster.</h3>
+<h1 align="center">Hi 👋</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=frel0&label=Profile%20views&color=0e75b6&style=flat" alt="frel0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=michrblx&label=Profile%20views&color=0e75b6&style=flat" alt="michrblx" /> </p>
 
 <p align="left">
 </p>
